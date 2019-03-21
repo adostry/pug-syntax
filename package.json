@@ -1,17 +1,15 @@
 {
   "name": "pug-syntax",
-  "theme": "syntax",
   "version": "1.0.0",
-  "description": "Pug syntax theme",
+  "description": "Pug syntax",
   "keywords": [
     "Pug",
     "Jade",
-    "syntax",
-    "theme"
+    "syntax"
   ],
   "repository": "https://github.com/adostry/pug-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0"
   }
 }
