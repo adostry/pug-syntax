@@ -184,7 +184,7 @@
     'beginCaptures':
       '4':
         'name': 'invalid.illegal.empty.generic.filter.pug'
-    'comment': 'Generic Jade filter.'
+    'comment': 'Generic Pug filter.'
     'end': '^(?!(\\1\\s)|\\s*$)'
     'name': 'text.generic.filter.pug'
     'patterns': [
@@ -361,7 +361,7 @@
     'captures':
       '1':
         'name': 'storage.type.function.pug'
-    'comment': 'Jade case conditionals.'
+    'comment': 'Pug case conditionals.'
     'end': '$'
     'name': 'meta.control.flow.pug'
     'patterns': [
@@ -513,7 +513,7 @@
         'captures':
           '1':
             'name': 'storage.type.function.pug'
-        'comment': 'Jade control flow.'
+        'comment': 'Pug control flow.'
         'end': '$'
         'name': 'meta.control.flow.pug'
         'patterns': [
@@ -536,7 +536,7 @@
             'name': 'storage.type.function.pug'
           '2':
             'name': 'invalid.illegal.html_entity.text.pug'
-        'comment': 'Jade control flow.'
+        'comment': 'Pug control flow.'
         'name': 'meta.control.flow.pug'
       }
     ]
